@@ -1,6 +1,6 @@
 pyheif
 requests
-clip-by-openai
+git+https://github.com/openai/CLIP.git
 matplotlib
 torch
 whatimage
